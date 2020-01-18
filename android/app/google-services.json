@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "1055788443339",
-    "firebase_url": "https://flash-chat-58a2a.firebaseio.com",
-    "project_id": "flash-chat-58a2a",
-    "storage_bucket": "flash-chat-58a2a.appspot.com"
+    "project_number": "616564370129",
+    "firebase_url": "https://flashchatfabianlol.firebaseio.com",
+    "project_id": "flashchatfabianlol",
+    "storage_bucket": "flashchatfabianlol.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1055788443339:android:26ee5a166746f262",
+        "mobilesdk_app_id": "1:616564370129:android:04f1ac16326a5b6be2b3f0",
         "android_client_info": {
-          "package_name": "co.appbrewery.flash_chat"
+          "package_name": "co.fabianschick123123.flash_chat"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1055788443339-o0dpvs896iv6ju6s3kqhkndv0bt8cgoc.apps.googleusercontent.com",
+          "client_id": "616564370129-vbsqg4raqvjlq2p9io81beacrv0nqdd2.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD6rctF2MNCGAIz2K70BQvTBfSJPHaaCqo"
+          "current_key": "AIzaSyBJyAAWp-Sy5_tStLMmlLgK9ju9gm5_MFc"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1055788443339-o0dpvs896iv6ju6s3kqhkndv0bt8cgoc.apps.googleusercontent.com",
+              "client_id": "616564370129-vbsqg4raqvjlq2p9io81beacrv0nqdd2.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
