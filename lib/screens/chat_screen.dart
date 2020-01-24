@@ -2,7 +2,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flash_chat/constants.dart';
 import 'package:flutter/material.dart';
-//import 'package:toast/toast.dart';
+import 'package:toast/toast.dart';
 
 final _firestore = Firestore.instance;
 FirebaseUser loggedInUser;
@@ -34,7 +34,7 @@ class _ChatScreenState extends State<ChatScreen> {
       }
     } catch (e) {
       print(e);
-//      Toast.show("Error: $e", context, duration: Toast.LENGTH_LONG, gravity: Toast.TOP);
+      Toast.show("Error: $e", context, duration: Toast.LENGTH_LONG, gravity: Toast.TOP);
     }
   }
 
